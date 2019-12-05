@@ -1,10 +1,7 @@
 class Monster():
 
-    # - Looks of a monster(Attributes)
-    # - Should have a name that is a string
-    # - Should have list of skills
 
-
+    # Monster attributes
     def __init__(self, name, skills = ['Scary']):
         self.name = name
         self.skills = skills
