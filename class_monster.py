@@ -5,7 +5,7 @@ class Monster():
     # - Should have list of skills
 
 
-    def __init__(self, name, skills = ['']):
+    def __init__(self, name, skills = ['Scary']):
         self.name = name
         self.skills = skills
 
