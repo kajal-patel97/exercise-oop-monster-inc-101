@@ -13,7 +13,6 @@ class Monster():
 
     def sleep(self):
         return 'ZZZZzzzzZZZzz'
-
     def eat(self):
         return 'NOM NOM NOM'
     def scare_attack(self):

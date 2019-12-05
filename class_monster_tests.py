@@ -16,3 +16,8 @@ print("got:", monster1.scare_attack())
 print("checking if monster can eat properly")
 print(monster1.eat() == 'NOM NOM NOM')
 print("got:", monster1.eat())
+
+## Testing sleep()
+print("checking if monster can sleep properly")
+print(monster1.sleep() == 'ZZZZzzzzZZZzz')
+print("got:", monster1.sleep())
