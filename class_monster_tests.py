@@ -21,3 +21,8 @@ print("got:", monster1.eat())
 print("checking if monster can sleep properly")
 print(monster1.sleep() == 'ZZZZzzzzZZZzz')
 print("got:", monster1.sleep())
+
+#Testing monster name
+print("checking monster has correct name")
+print(monster1.name == 'Paul')
+print("got:", monster1.name)
