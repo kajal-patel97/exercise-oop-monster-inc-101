@@ -26,3 +26,8 @@ print("got:", monster1.sleep())
 print("checking monster has correct name")
 print(monster1.name == 'Paul')
 print("got:", monster1.name)
+
+## Testing Monster skills
+print("checking monster skills ")
+print(monster1.skills == ['scary', 'hairy', 'loud'])
+print("got:", monster1.skills)
